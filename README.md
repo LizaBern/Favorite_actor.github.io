@@ -1,2 +1,2 @@
-# Liza
+# Favorite actor
 Favorite actor
